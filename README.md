@@ -20,3 +20,11 @@ To get started you need to:
 - Copy your app credentials into the `.env` file
 
 For more detailed setup instructions, see [Messenger Platform Quick Start](https://developers.facebook.com/docs/messenger-platform/guides/quick-start).
+
+## Screenshots
+The following are screenshots taken from the test application.
+![alt tag](http://i.imgur.com/ByOcAno.png)
+![alt tag](http://i.imgur.com/9rErvBW.png)
+![alt tag](http://i.imgur.com/mrLJL9v.png)
+![alt tag](http://i.imgur.com/9aTv553.png)
+![alt tag](http://i.imgur.com/82c4fI5.png)
