@@ -23,8 +23,9 @@ For more detailed setup instructions, see [Messenger Platform Quick Start](https
 
 ## Screenshots
 The following are screenshots taken from the test application.
-![alt tag](http://i.imgur.com/ByOcAno.png)
-![alt tag](http://i.imgur.com/9rErvBW.png)
-![alt tag](http://i.imgur.com/mrLJL9v.png)
-![alt tag](http://i.imgur.com/9aTv553.png)
-![alt tag](http://i.imgur.com/82c4fI5.png)
+
+![alt tag](http://i.imgur.com/ByOcAno.png | width=100px)
+![alt tag](http://i.imgur.com/9rErvBW.png | width=100px)
+![alt tag](http://i.imgur.com/mrLJL9v.png | width=100px)
+![alt tag](http://i.imgur.com/9aTv553.png | width=100px)
+![alt tag](http://i.imgur.com/82c4fI5.png | width=100px)
