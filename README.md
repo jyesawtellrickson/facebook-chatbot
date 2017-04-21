@@ -4,8 +4,6 @@ This bot is built off the example project located in [Messenger Platform docs](h
 
 It's a bot that helps users to discover catering options for their event. It can send a few different template types, helping the user to see caterers, menu options, reviews and photos. This project is not dependent on any external libraries and can easily be extended.
 
-![](https://cdn.gomix.com/ca73ace5-3fff-4b8f-81c5-c64452145271%2FmessengerBotGIF.gif)
-
 ## Getting Started
 To get started you need to:
 
