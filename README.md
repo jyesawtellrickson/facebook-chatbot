@@ -21,6 +21,11 @@ To get started you need to:
 
 For more detailed setup instructions, see [Messenger Platform Quick Start](https://developers.facebook.com/docs/messenger-platform/guides/quick-start).
 
+## To Do
+The bot still requires intelligence as it can only handle basic one-dimensional conversations at the moment. This should be improved by leveraging some AI Chat libraries. The content should also be made for free form.
+
+Currenly there are many cases where no images are returned, these need to dealt with in such a way as to still communicate useful information to the user.
+
 ## Screenshots
 The following are screenshots taken from the test application.
 
