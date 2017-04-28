@@ -10,7 +10,7 @@ var messengerButton = "<html><head><title>Facebook Messenger Bot</title></head><
 
 // The rest of the code implements the routes for our Express server.
 let app = express();
-
+// Use bodyParser
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: true
